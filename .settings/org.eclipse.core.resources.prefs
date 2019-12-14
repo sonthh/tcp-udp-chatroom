@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/multithreadconsole/tcp/ChatServer.java=UTF-8
+encoding//src/multithreadui/tcp/son/ChatServer.java=UTF-8
+encoding//src/nonmultithreadconsole/udp/ClientCal.java=UTF-8
+encoding//src/nonmultithreadconsole/udp/ClientDate.java=UTF-8
+encoding//src/nonmultithreadconsole/udp/ClientFibo.java=UTF-8
+encoding//src/nonmultithreadconsole/udp/ClientString.java=UTF-8
+encoding/<project>=UTF-8
